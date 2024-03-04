@@ -8,9 +8,9 @@ Here we provide a list of current audits:
 | Company                | Description                                                                                                   | Report                            | Date                                          |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------- | ----------------------------------------------- |
 | Certora               | Security Audit                         | Coming Soon   |                 February 2024                   |
-| MixBytes               | Security Audit                         | [MixBytes](https://github.com)       |                 February 2024                      |
-| Pessimistic               | Security Audit - Access Protocol                        | [Pessimistic](https://github.com)       |                 February 2024                      |
-| Pessimistic               | Security Audit                         | [Pessimistic](https://github.com)       |                 January 2024                      |
+| MixBytes               | Security Audit                         | [MixBytes](https://github.com/KintoXYZ/security/audits/MixBytes-Feb2024/mixbytes-feb2024.pdf)       |                 February 2024                      |
+| Pessimistic               | Security Audit - Access Protocol                        | [Pessimistic](https://github.com/KintoXYZ/security/audits/Pessimistic-Feb2024/pessimistic-feb.pdf)       |                 February 2024                      |
+| Pessimistic               | Security Audit                         | [Pessimistic](https://github.com/KintoXYZ/security/audits/Pessimistic-Jan2024/pessimistic-jan.pdf)       |                 January 2024                      |
 
 
 # Naming convention
